@@ -1,0 +1,23 @@
+.form, form,
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+
+}
+.fa-solid{
+    cursor: pointer;
+}
+.main-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+input{
+    flex: 1;
+}
